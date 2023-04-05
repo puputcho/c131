@@ -1,0 +1,19 @@
+    .heading {
+        font-size: 23px;
+        border-radius: 20px;
+        width: 90%;
+        margin: 0px;
+    }
+    
+    body {
+        background-image: linear-gradient(to right, rgba(255, 0, 0, 0.3), rgba(255, 0, 0, 0.6));
+        background-size: cover;
+        /*background-position: center;*/
+    }
+    
+    .class_images {
+        border-radius: 20px;
+        border: 1px solid tomato;
+        box-shadow: 7px 7px 7px tan;
+        width: 30%;
+    }
